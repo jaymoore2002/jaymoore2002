@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jadyn Moore
 - 👀 I’m interested in a cyber security role that I can apply my knowledge towards
 - 🌱 I’m currently learning SQL, HTML, top cyber security threats
-- 💞️ I’m looking to collaborate on projects, presentations, learning
+- 🔥 I’m looking to collaborate on projects, presentations, learning
 - 📫 Mobile: (585)317-2992
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have four dogs, and love skiing
